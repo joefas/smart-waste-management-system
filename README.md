@@ -24,7 +24,7 @@ The **Smart Waste Management System** is designed to revolutionize urban waste c
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/smart-waste-management-system.git
+    git clone https://github.com/joefas/smart-waste-management-system.git
     cd smart-waste-management-system
     ```
 
