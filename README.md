@@ -76,5 +76,5 @@ Contributions are welcome! Please fork this repository and submit a pull request
 For any inquiries or collaboration, feel free to contact me:
 
 Geofrey Ajowi Ochieng 
-ochieggeofrey06@gmail.com
+ochienggeofrey06@gmail.com
 
